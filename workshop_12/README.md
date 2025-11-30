@@ -158,10 +158,7 @@
 
 Результат(відео):
 
-<video width="100%" controls>
-  <source src="images/final.mp4" type="video/mp4">
-  Ваш браузер не підтримує відтворення відео.
-</video>
+https://github.com/user-attachments/assets/7f7b0096-a7ca-442c-aa3e-432ae5b7f9d6
 
 ---
 
