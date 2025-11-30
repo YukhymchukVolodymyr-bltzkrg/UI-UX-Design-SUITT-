@@ -347,4 +347,3 @@
 ## Посилання
 
 - [Adobe Color](https://color.adobe.com/)
-- [WCAG 2.1 Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
